@@ -11,6 +11,6 @@
 </ul>
 <br>If you follow these steps, the map should show up when you click on "Select Game" after having booted up TripleA, under the name "World War I Improved".
 <br>
-<br>A list of the improvements can be found in the game notes.
+<br>An overview of all the improvements can be found in the game notes.
 <br>
 <br>Enjoy!
