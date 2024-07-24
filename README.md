@@ -1,3 +1,4 @@
+# World War I 1914 Improved
 <br>How to download this map:
 <ul>
 <li>Click on the green button that says "<> Code".</li>
