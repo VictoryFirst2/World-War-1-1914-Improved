@@ -1,5 +1,4 @@
-<br><body>How to download this map:</body>
-<br>
+<br>How to download this map:
 <ul>
 <li>Click on the green button that says "<> Code".</li>
 <li>Click on "Download ZIP".</li>
